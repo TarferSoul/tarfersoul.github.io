@@ -51,11 +51,11 @@ You can find my work on [GitHub](https://github.com/TarferSoul) and [Google Scho
 ## Internships
 
 - **Shanghai AI Lab**, Dec. 2025 - Present
-  <br>Working with Dongrui Liu \| LLM & Agent Safety
+  - Working with Dongrui Liu. Research on LLM & Agent Safety.
 - **The Chinese University of Hong Kong, Shenzhen**, Jul. 2024 - Feb. 2025
-  <br>Working with Youliang Yuan, Dr. Wenxuan Wang and Prof. Pinjia He \| LLM & Agent Safety
-- **The Chinese University of Hong Kong**, Mar. 2024 - Jul. 2024
-  <br>Remote intern working with Xiangxiang Dai and Prof. John C.S. Lui \| Multi-arms Bandit Algorithm
+  - Working with Youliang Yuan, Dr. Wenxuan Wang and Prof. Pinjia He. Research on LLM & Agent Safety.
+- **The Chinese University of Hong Kong** (Remote), Mar. 2024 - Jul. 2024
+  - Working with Xiangxiang Dai and Prof. John C.S. Lui. Research on Multi-arms Bandit Algorithm.
 
 ## Awards
 
