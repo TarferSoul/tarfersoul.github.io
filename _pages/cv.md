@@ -11,54 +11,32 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **M.S. in Tsinghua University** (Shenzhen International Graduate School), Shenzhen, China (Sep. 2026 - ), advised by Prof. Yujiu Yang
+* **B.E. in Electronic Engineering, Huazhong University of Science and Technology**, Wuhan, China (Sep. 2022 - Jun. 2026), GPA: 4.51/5.00, Rank: 1/30 (Advanced Class)
 
-Work experience
+Internships
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Shanghai AI Lab**, Shanghai, China (Dec. 2025 - Present)
+  * Working with Dongrui Liu
+  * Research Direction: LLM & Agent Safety
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **The Chinese University of Hong Kong, Shenzhen**, Shenzhen, China (Jul. 2024 - Feb. 2025)
+  * Working with Youliang Yuan, Dr. Wenxuan Wang and Prof. Pinjia He
+  * Research Direction: LLM & Agent Safety
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **The Chinese University of Hong Kong**, Hong Kong (Mar. 2024 - Jul. 2024)
+  * Remote intern working with Xiangxiang Dai and Prof. John C.S. Lui
+  * Research Direction: Multi-arms Bandit Algorithm
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+Awards
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* **National Scholarship** (Top 1%), 2024
+* **National Scholarship** (Top 1%), 2023
+* The 6th DIGIX Global AI Challenge, **National First Prize**, 2024
+* The 2024 Mathematical Contest in Modeling (MCM), **Meritorious Winner**, 2024
