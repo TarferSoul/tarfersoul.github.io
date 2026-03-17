@@ -45,7 +45,7 @@ You can find my work on [GitHub](https://github.com/TarferSoul) and [Google Scho
 
 ## Education
 
-- **M.S., Tsinghua University** (Shenzhen International Graduate School), Sep. 2026 - , advised by Prof. Yujiu Yang
+- **M.S., Tsinghua University** (Shenzhen International Graduate School), Sep. 2026 - Jun. 2028 (expected), advised by Prof. Yujiu Yang
 - **B.E., Electronic Engineering, Huazhong University of Science and Technology**, Sep. 2022 - Jun. 2026, GPA: 4.51/5.00, Rank: 1/30 (Advanced Class)
 
 ## Internships
