@@ -68,3 +68,5 @@ You can find my work on [GitHub](https://github.com/TarferSoul) and [Google Scho
 - **National Scholarship** (Top 1%), 2023
 - The 6th DIGIX Global AI Challenge, **National First Prize**, 2024
 - The 2024 Mathematical Contest in Modeling (MCM), **Meritorious Winner**, 2024
+
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=J9XRl7J8t8mNPubRQ7MXo5l0rcO6IR0s93B2p_WcZoA"></script>
