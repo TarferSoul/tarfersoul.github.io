@@ -25,7 +25,7 @@ You can find my work on [GitHub](https://github.com/TarferSoul) and [Google Scho
 
 - **ToolSafety: A Comprehensive Dataset for Enhancing Safety in LLM-Based Agent Tool Invocations**
   <br>**Yuejin Xie**, Youliang Yuan, Wenxuan Wang, Fan Mo, Jianmin Guo, Pinjia He
-  <br>EMNLP 2025 Main Conference \| [[Paper]](https://aclanthology.org/2025.emnlp-main.714/) [[Code]](https://github.com/TarferSoul/ToolSafety)
+  <br>EMNLP 2025 Main Conference \| [[Paper]](https://aclanthology.org/2025.emnlp-main.714/) [[Code]](https://github.com/TarferSoul/ToolSafety) [[Dataset]](https://huggingface.co/datasets/jinjinyien/ToolSafety)
 
 - **Code2Math: Can Your Code Agent Effectively Evolve Math Problems Through Exploration?**
   <br>Dadi Guo\*, **Yuejin Xie**\*, Qingyu Liu, Jiayu Liu, Zhiyuan Fan, Qihan Ren, Shuai Shao, Tianyi Zhou, Dongrui Liu, Yi R. Fung
