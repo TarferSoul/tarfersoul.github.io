@@ -6,6 +6,8 @@ excerpt: 'We propose a multi-agent framework that leverages code agents to auton
 date: 2026-03-03
 venue: 'arXiv preprint'
 paperurl: 'https://arxiv.org/abs/2603.03202'
+featured: true
+featured_order: 3
 citation: 'Dadi Guo*, <b>Yuejin Xie*</b>, Qingyu Liu, Jiayu Liu, Zhiyuan Fan, Qihan Ren, Shuai Shao, Tianyi Zhou, Dongrui Liu, Yi R. Fung. (2026). &quot;Code2Math: Can Your Code Agent Effectively Evolve Math Problems Through Exploration?&quot; <i>arXiv preprint arXiv:2603.03202</i>.'
 ---
 

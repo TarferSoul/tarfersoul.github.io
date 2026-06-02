@@ -6,6 +6,8 @@ excerpt: 'We introduce ToolSafety, a safety fine-tuning dataset containing 5,668
 date: 2025-11-01
 venue: 'EMNLP 2025'
 paperurl: 'https://aclanthology.org/2025.emnlp-main.714/'
+featured: true
+featured_order: 4
 citation: '<b>Yuejin Xie</b>, Youliang Yuan, Wenxuan Wang, Fan Mo, Jianmin Guo, Pinjia He. (2025). &quot;ToolSafety: A Comprehensive Dataset for Enhancing Safety in LLM-Based Agent Tool Invocations.&quot; <i>Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP)</i>.'
 ---
 
