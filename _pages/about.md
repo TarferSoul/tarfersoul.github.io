@@ -45,7 +45,7 @@ You can find my work on [GitHub](https://github.com/TarferSoul) and [Google Scho
 
 - **AgentDoG 1.5: A Lightweight and Scalable Alignment Framework for AI Agent Safety and Security**
   <br>Dongrui Liu, Yu Li, Zhonghao Yang, Peng Wang, Guanxu Chen, **Yuejin Xie**, et al.
-  <br>arXiv 2026 \| [[Paper]](https://arxiv.org/abs/2605.29801) [[Code]](https://github.com/AI45Lab/AgentDoG)
+  <br>arXiv 2026 (Core Contributor) \| [[Paper]](https://arxiv.org/abs/2605.29801) [[Code]](https://github.com/AI45Lab/AgentDoG)
 
 - **Benchmarks for Trajectory Safety Evaluation and Diagnosis in OpenClaw and Codex: ATBench-Claw and ATBench-Codex**
   <br>Zhonghao Yang, Yu Li, Yanxu Zhu, Tianyi Zhou, **Yuejin Xie**, Haoyu Luo, Jing Shao, Xia Hu, Dongrui Liu
@@ -61,7 +61,7 @@ You can find my work on [GitHub](https://github.com/TarferSoul) and [Google Scho
 
 - **AgentDoG: A Diagnostic Guardrail Framework for AI Agent Safety and Security**
   <br>Dongrui Liu, ..., **Yuejin Xie**, et al. (Core Contributor)
-  <br>arXiv 2026 \| [[Paper]](https://arxiv.org/abs/2601.18491) [[Code]](https://github.com/AI45Lab/AgentDoG)
+  <br>arXiv 2026 (Core Contributor) \| [[Paper]](https://arxiv.org/abs/2601.18491) [[Code]](https://github.com/AI45Lab/AgentDoG)
 
 - **A Multi-Agent Conversational Bandit Approach to Online Evaluation and Selection of User-Aligned LLM Responses**
   <br>Xiangxiang Dai, **Yuejin Xie**, Maoli Liu, Xuchuang Wang, Zhuohua Li, Huanyu Wang, John C.S. Lui
