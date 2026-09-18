@@ -34,11 +34,13 @@ main:
   - title: "AgentDoG 1.5: A Lightweight and Scalable Alignment Framework for AI Agent Safety and Security"
     authors: "Dongrui Liu, Yu Li, Zhonghao Yang, Peng Wang, Guanxu Chen, <strong>Yuejin Xie</strong>, et al."
     conference: "arXiv preprint, 2026."
+    notes: "Core Contributor"
     paper: https://arxiv.org/abs/2605.29801
     code: https://github.com/AI45Lab/AgentDoG
 
   - title: "AgentDoG: A Diagnostic Guardrail Framework for AI Agent Safety and Security"
     authors: "Dongrui Liu, Yu Li, Zhonghao Yang, Peng Wang, Guanxu Chen, <strong>Yuejin Xie</strong>, et al."
     conference: "arXiv preprint, 2026."
+    notes: "Core Contributor"
     paper: https://arxiv.org/abs/2601.18491
     code: https://github.com/AI45Lab/AgentDoG
