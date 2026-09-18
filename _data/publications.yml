@@ -1,0 +1,44 @@
+main:
+  - title: "ClashBench: Conflicts Leading Agents to Seize and Harm"
+    authors: "<strong>Yuejin Xie*</strong>, Yu Li*, Dadi Guo, Qingyu Liu, Yuqian Fu, Yanwei Fu, Yujiu Yang, Xia Hu, Dongrui Liu"
+    conference: "arXiv preprint, 2026."
+    paper: https://arxiv.org/abs/2609.19892
+    code: https://github.com/TarferSoul/CLASHBench
+    dataset: https://huggingface.co/datasets/jinjinyien/CLASHBench
+
+  - title: "PaSBench-Video: A Streaming Video Benchmark for Proactive Safety Warning"
+    authors: "Yusong Zhao*, <strong>Yuejin Xie*</strong>, Youliang Yuan, Junjie Hu, Jitian Guo, Yujiu Yang, Pinjia He"
+    conference: "EMNLP 2026 Main Conference."
+    paper: https://arxiv.org/abs/2606.02443
+    dataset: https://huggingface.co/datasets/beingbetter11643/PaSBench-Video
+
+  - title: "ATBench: A Diverse and Realistic Agent Trajectory Benchmark for Safety Evaluation and Diagnosis"
+    authors: "Yu Li*, Haoyu Luo*, <strong>Yuejin Xie*</strong>, Yuqian Fu, Zhonghao Yang, Shuai Shao, et al."
+    conference: "COLM 2026."
+    paper: https://arxiv.org/abs/2604.02022
+    dataset: https://huggingface.co/datasets/AI45Research/ATBench
+
+  - title: "Code2Math: Can Your Code Agent Effectively Evolve Math Problems Through Exploration?"
+    authors: "Dadi Guo*, <strong>Yuejin Xie*</strong>, Qingyu Liu, Jiayu Liu, Zhiyuan Fan, et al."
+    conference: "arXiv preprint, 2026."
+    paper: https://arxiv.org/abs/2603.03202
+    code: https://github.com/TarferSoul/Code2Math
+
+  - title: "ToolSafety: A Comprehensive Dataset for Enhancing Safety in LLM-Based Agent Tool Invocations"
+    authors: "<strong>Yuejin Xie</strong>, Youliang Yuan, Wenxuan Wang, Fan Mo, Jianmin Guo, Pinjia He"
+    conference: "EMNLP 2025 Main Conference."
+    paper: https://aclanthology.org/2025.emnlp-main.714/
+    code: https://github.com/TarferSoul/ToolSafety
+    dataset: https://huggingface.co/datasets/jinjinyien/ToolSafety
+
+  - title: "AgentDoG 1.5: A Lightweight and Scalable Alignment Framework for AI Agent Safety and Security"
+    authors: "Dongrui Liu, Yu Li, Zhonghao Yang, Peng Wang, Guanxu Chen, <strong>Yuejin Xie</strong>, et al."
+    conference: "arXiv preprint, 2026."
+    paper: https://arxiv.org/abs/2605.29801
+    code: https://github.com/AI45Lab/AgentDoG
+
+  - title: "AgentDoG: A Diagnostic Guardrail Framework for AI Agent Safety and Security"
+    authors: "Dongrui Liu, Yu Li, Zhonghao Yang, Peng Wang, Guanxu Chen, <strong>Yuejin Xie</strong>, et al."
+    conference: "arXiv preprint, 2026."
+    paper: https://arxiv.org/abs/2601.18491
+    code: https://github.com/AI45Lab/AgentDoG
