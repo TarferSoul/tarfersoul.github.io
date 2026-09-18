@@ -17,7 +17,7 @@ My research focuses on the safety of LLM-based agents: how agents perceive risk,
 
 ## Education
 
-- **M.S. student, Tsinghua University** (Shenzhen International Graduate School), Sep. 2026 - present. Advised by Prof. [Yujiu Yang](https://sites.google.com/view/iigroup-thu/).
+- **M.S. student in Electronic Information, Tsinghua University** (Shenzhen International Graduate School), Sep. 2026 - present. Advised by Prof. [Yujiu Yang](https://sites.google.com/view/iigroup-thu/).
 - **B.E. in Electronic Engineering, Huazhong University of Science and Technology**, Sep. 2022 - Jun. 2026. GPA: 4.51/5.00; Rank: 1/30 (Advanced Class).
 
 ## Internship
