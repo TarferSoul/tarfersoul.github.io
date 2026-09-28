@@ -24,6 +24,10 @@ My research focuses on the safety of LLM-based agents: how agents perceive risk,
 
 - **Research Intern, Shanghai AI Lab**, Shanghai, China, Dec. 2025 - present.
 
+## Projects
+
+- **StudySprint** — A coursework planning prototype that turns assignment briefs into editable checklists with source evidence, local notes, and calendar export. [Live demo](https://tarfersoul.github.io/studysprint/) · [GitHub](https://github.com/TarferSoul/studysprint).
+
 ## News
 
 - **[Sep. 2026]** Started my master's program at **Tsinghua University**.
